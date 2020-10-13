@@ -20,7 +20,6 @@ namespace Pokladna
   public PokladniZaznam()
   {
   }
-
   public PokladniZaznam(int idPokladniZaznam, int cislo, DateTime datum, string popis, double castka, double zustatek, string poznamka)
   {
    IdPokladniZaznam = idPokladniZaznam;
