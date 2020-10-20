@@ -17,6 +17,7 @@ namespace Pokladna
   public double Zustatek { get; set; }
   public string Poznamka { get; set; }
 
+
   public PokladniZaznam()
   {
   }
